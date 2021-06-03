@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of the taking of the city, minster and castle of Lincolne with all their ordnance, ammunition and horse by the Right Honourable the Earle of Manchester, on Monday the sixth of this instant May : together with a list of the names of the commanders and number of common souldiers that was there taken.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31133</idno><idno type="EEBO-CITATION">12061937</idno>
+  <idno type="VID">196681</idno>
+  <idno type="EEBO-PROQUEST">2248525315</idno>
+  
+            <idno type="STC">Wing T3056</idno>
+            <idno type="OCLC">12061937</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B31133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196681)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 236:E47, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of the taking of the city, minster and castle of Lincolne with all their ordnance, ammunition and horse by the Right Honourable the Earle of Manchester, on Monday the sixth of this instant May : together with a list of the names of the commanders and number of common souldiers that was there taken.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Cotes for Joh. Bellamy,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Manchester, Edward Montagu, --  Earl of, 1602-1671.</term>
+               <term type="geographic_name">Lincoln (England) --  History --  Siege, 1644.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196681:1"/>
+            <p>A TRVE RELATION OF THE Taking of the City, Minster, and Ca<g ref="char:EOLhyphen"/>stle of <hi>Lincolne,</hi> with all their Ord<g ref="char:EOLhyphen"/>nance, Ammunition, and Horse.</p>
+            <p>
+               <hi>By the Right Honourable the Earle of</hi> Manchester, <hi>On Monday the sixth of this instant</hi> May.</p>
+            <p>Together With a List of the names of the Com<g ref="char:EOLhyphen"/>manders, and number of common Souldiers, that was there taken.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Cotes</hi> for <hi>Joh. Bellamy.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:196681:2"/>
+            <pb n="1" facs="tcp:196681:2"/>
+            <head>A True Relation of the taking of the Ci<g ref="char:EOLhyphen"/>ty, Minster, and Castle of <hi>Lincolne,</hi> with all their Ordnance, Ammunition, &amp; Horse.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y best respects to your selfe presented. Without further preamble, I have here sent you a briefe and faithfull Relation of our proceeding before <hi>Lincolne,</hi> where it hath pleased God to shew himselfe won<g ref="char:EOLhyphen"/>derfully on the side of his people, by a glorious and ad<g ref="char:EOLhyphen"/>mirable Victory given to us.</p>
+            <p>On Fryday last, <hi>May</hi> 3. my Lord of <hi>Manchester,</hi> sate down before <hi>Lincolne.</hi> And after some small re<g ref="char:EOLhyphen"/>sistance was Master of the lower part of the City. The Enemy all flying from their out-workes, and betaking themselves to their upper workes, to the Minster, and to the Castle, which they conceived to be impregna<g ref="char:EOLhyphen"/>ble.</p>
+            <p>On Saturday <hi>May</hi> 4. there fell so much raine, that we could make no attempt against them. That night my Lord resolves to storme them, and to that purpose drew up his Foot, and sent for the Horse from their Quarters to be ready by two a clock in the morning, but the wea<g ref="char:EOLhyphen"/>ther
+<pb n="2" facs="tcp:196681:3"/>continuing so violent, prevented our attempt for that night, it being so slippery that it was not possible for our Foot to crawle up the hill to come to their workes, the Mount whereon the Castle stood, being nere as steep as the eaves of a house, and there was the chiefest place where we were to storm them.</p>
+            <p>The next day, being the Lords day, we sent out a party of Horse towards <hi>Gainsborough,</hi> and took some Prisoners, who told us of a great body of Horse, to the number of five or six thousand that were comming a<g ref="char:EOLhyphen"/>gainst us, under Colonell <hi>Gorings</hi> command: which made my Lord to resolve to storm them that afternoon, and to that intent the scaling ladders were brought forth and the Foot were ready to set on, but second and better thoughts stayed us till next morning, we ha<g ref="char:EOLhyphen"/>ving intelligence that they were sarre enough off from comming to their reliefe for that night. My Lord in the mean time sent two thousand Horse under the com<g ref="char:EOLhyphen"/>mand of Lieutenant Generall <hi>Cromwell,</hi> to meet the e<g ref="char:EOLhyphen"/>nemy, and to stop them from comming to relieve the City, and thereupon the Foot were by order drawn off from about the Hill, which the Enemy perceiving, it caused them to insult, houping, and hollowing against us, thinking we were afraid to set upon them, but the next morning they sang another note, in another tune; There was that night order given for the Foot to lie upon the severall quarters of the hill, round about their workes, and to be all in a readinesse to fall on, from e<g ref="char:EOLhyphen"/>very quarter when they heard the great Ordnance go off, which was between two and three in the morning, there being six peeces together let fly, upon which we all fell to work, within lesse then a quarter of an houre we got up to their workes, which the Foot with much
+<pb n="3" facs="tcp:196681:3"/>gallantnesse performed, receiving all their shot, which they powred out like haile, the Enemy being all of them ready to receive our charge, and expecting us when we came.</p>
+            <p>Our foot never left running till they came to the top of the Hill, which would have been enough to tier a Horse; being under their workes, we set up the Scaling ladders, which they seeing left their fiering, and threw mighty stones upon us from over their workes, by which wee received more hurt then by all their shot; but all would not daunt our men, but up to the top of the ladders they got, which proved too short most of them, to reach the top of their Wals and Works, they being most of them as high as <hi>London</hi> Wal; but yet they shifted to get up, which the enemy perceiving, they had no spirit left in them, but betooke themselves to their heels, and our men over their works shouting, &amp; follow<g ref="char:EOLhyphen"/>ing as fast after them, but they not knowing whether to runne, cryed out for quarter; saying they were poore Array men: we slew about fifty of them, about twen<g ref="char:EOLhyphen"/>ty of which were slaine in the Castle yard, where they made the most resistance. We lost not more then eight men in the storming of it; whereof one a Captaine, Captaine <hi>Oglesby,</hi> another, Lieutenant <hi>Saunders.</hi> We tooke of them as followes; a List of whose Names I have here sent you, both of the Officers, and Com<g ref="char:EOLhyphen"/>mon Souldiers, as I see them taken, which is with the least, there being more found since in corners, whose names were not inserted into this list of Prisoners: all the Common Souldiers after they were taken did chearfully desire to serve the Parliament, making many Protestations of their readines to venture their lives for our cause.</p>
+         </div>
+         <div type="list">
+            <pb n="4" facs="tcp:196681:4"/>
+            <head>A List of the Commanders and Common Souldiers that were taken PRISONERS.</head>
+            <list>
+               <item>SIR Francis Fane Go<g ref="char:EOLhyphen"/>vernour.</item>
+               <item>
+                  <hi>Colonells.</hi>
+                  <list>
+                     <item>Sir Charles Dalison Col.</item>
+                     <item>Colonell Midlemore.</item>
+                     <item>Colonell Baudes.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lieut. Colonells.</hi>
+                  <list>
+                     <item>Lieut. Benefield.</item>
+                     <item>Lieut. Browne.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Sergeant Majors.</hi>
+                  <list>
+                     <item>Major Roberts.</item>
+                     <item>Major Rogers.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Captaines.</hi>
+                  <list>
+                     <item>Captaine Giles.</item>
+                     <item>Cap. Dalby.</item>
+                     <item>Cap. Rachil.</item>
+                     <item>Cap. Daliston.</item>
+                     <item>Cap. Souze.</item>
+                     <item>Cap. Berisford.</item>
+                     <item>Cap. Woodrofe.</item>
+                     <item>Cap. Morecraft.</item>
+                     <item>Capt. Bradbury.</item>
+                     <item>Cap. Hewet.</item>
+                     <item>Cap. Roberts.</item>
+                     <item>Cap. Purdy.</item>
+                     <item>Cap. Corie.</item>
+                     <item>Cap. Balgie.</item>
+                     <item>Cap. Heslewood.</item>
+                     <item>Cap. Cockerill.</item>
+                     <item>Cap. Wright.</item>
+                     <item>Cap. Cha. Baudes.</item>
+                     <item>Cap. Moore.</item>
+                     <item>Cap. Quadring.</item>
+                     <item>Cap. Lieut. Monroy.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lieutenants.</hi>
+                  <list>
+                     <item>Lieut. Rich. Gregory.</item>
+                     <item>Lieut. Wil. Maxfield.</item>
+                     <item>Lieut. Christ. Shoare.</item>
+                     <item>Lieut. James Baldwin.</item>
+                     <item>Lieut. John Turner.</item>
+                     <item>Lieut. James Castle.</item>
+                     <item>Lieut. Robert Linsey.</item>
+                     <item>Lieut. Edmonds.</item>
+                     <item>Lieut. Wil. Hall.</item>
+                     <pb n="5" facs="tcp:196681:4"/>
+                     <item>Lieut. Wil. Browne.</item>
+                     <item>Lieut. Sam. Gromet.</item>
+                     <item>Lieut. Tho. Kinsman.</item>
+                     <item>Lieut. Matth. Skeans.</item>
+                     <item>Lieut. Christ. Dighton.</item>
+                     <item>Lieut. Hardy.</item>
+                     <item>Lieut. Beard.</item>
+                     <item>Lieut. Bolt.</item>
+                     <item>Lieut. Thory.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Ensignes</hi>
+                  <list>
+                     <item>Ensig. Tho. Patly.</item>
+                     <item>Ensig. Ralph Outlaw.</item>
+                     <item>Ensig. Roberts.</item>
+                     <item>Ensig. Ral. Armington.</item>
+                     <item>Ensig. Gervace Dighton.</item>
+                     <item>Ensig. James Aprice.</item>
+                     <item>Ensig. Henry Ash.</item>
+                     <item>Ensig. Henry Brooksby.</item>
+                     <item>Ensig. Jo. Yarmouth.</item>
+                     <item>Ensig. Skelton.</item>
+                     <item>Ensig. Algood.</item>
+                     <item>Ensig. Gardin.</item>
+                     <item>Ensig. Levin.</item>
+                     <item>Ensig, Rivelin.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Sergeants.</hi>
+                  <list>
+                     <item>Serg. Jo. Machen.</item>
+                     <item>Serg. Wil. Smith.</item>
+                     <item>Serg. Robert Parker.</item>
+                     <item>Serg. Thomas Skelton.</item>
+                     <item>Serg. Richard Trist.</item>
+                     <item>Serg. Rand. Armstrong.</item>
+                     <item>Serg. William Hall.</item>
+                     <item>Serg. Richard Wood.</item>
+                     <item>Serg. William Clarke.</item>
+                     <item>Ser. Arthur Hammonds.</item>
+                     <item>Ser. John Coles.</item>
+                     <item>Ser. Jer. Roe.</item>
+                     <item>Ser. John Burnot.</item>
+                     <item>Ser. Thomas Jenkinson.</item>
+                     <item>Ser. William Scot.</item>
+                     <item>Ser. William Scales.</item>
+                     <item>Ser. Ed. Yarneton.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Twenty Corporals.</hi>
+               </item>
+               <item>
+                  <hi>Gentlemen.</hi>
+                  <list>
+                     <item>Burrill.</item>
+                     <item>William Quaderin.</item>
+                     <item>Ed. Skipwith, <hi>senior.</hi>
+                     </item>
+                     <item>Ed. Skipwith, <hi>junior.</hi>
+                     </item>
+                     <item>George Bradley.</item>
+                     <item>Isaac Atkinson, Minister.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Foure Drums.</hi>
+               </item>
+               <item>
+                  <hi>One Trumpet.</hi>
+               </item>
+               <item>David Prele Overseer of the Workes.</item>
+               <item>Kilham Booth Master Gunner</item>
+               <item>William Smith Gunners Mate,</item>
+               <item>John Cedling Gunners Mate.</item>
+            </list>
+            <pb n="6" facs="tcp:196681:5"/>
+            <p>About seven hundred private Souldiers taken.</p>
+            <p>Fifty-slaine on the place.</p>
+            <p>All their Armes: All their Ammunition taken Eight Pieces of Ordnance. All the Pillage of the upper Town (which was taken by storming) was given to the Souldiers.</p>
+            <p>The place was taken by storming in halfe an houre.</p>
+            <p>Onely eight of our men killed; whereof Captaine <hi>Oglesby</hi> and Lieutenant <hi>Saunders,</hi> were two.</p>
+            <p>About fourty of our hurt, by casting down stones.</p>
+            <p>A hundred Horse taken.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
